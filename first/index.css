@@ -1,0 +1,24 @@
+h1 {
+    width: 100vw;
+    height: 20vh;
+    background-color: #444444;
+}
+
+.box-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #EFEFEF;
+    display: flex;
+}
+
+.side {
+    width: 15vw;
+    height: 100vh;
+    background-color: #D8D8D8;
+}
+
+.middle {
+    width: 80vw;
+    height: 90vh;
+    border-bottom: 10vh solid #222222;
+}
