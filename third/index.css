@@ -1,0 +1,49 @@
+h1 {
+    width: 100vw;
+    height: 10vh;
+    background-color: lightgray;
+    padding: 10px 25px;
+}
+
+.blue-square {
+    width: 90px;
+    height: 90px;
+    background-color: rgb(99, 148, 212);
+}
+
+.white {
+    width: 100vw;
+    height: 25vh;
+}
+
+.white p {
+    text-align: left;
+    margin: 58px;
+    font-family: Helvetica;
+    line-height: 1.5;
+    font-size: 23px
+}
+
+.blue {
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(99, 148, 212);
+}
+
+.green {
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(141, 238, 193);
+}
+
+.lime-green {
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(181, 231, 135);
+}
+
+.yellow {
+    width: 100vw;
+    height: 15vh;
+    background-color: yellow;
+}
